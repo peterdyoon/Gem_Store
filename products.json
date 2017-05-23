@@ -1,0 +1,91 @@
+[{
+    "name": "Dodecahedron",
+    "price": 2.95,
+    "description": "Nobody knows what this is. ",
+    "canPurchase": true,
+    "soldOut": false,
+    "images": {
+        "full": "gem-01.gif",
+        "thumb": "gem-01.gif"
+    }
+}, {
+    "name": "Pentagonal Gem",
+    "price": 5.95,
+    "description": "It's the pentagon baby!",
+    "canPurchase": true,
+    "soldOut": false,
+    "images": {
+        "full": "gem-02.gif",
+        "thumb": "gem-02.gif"
+    }
+}, {
+    "name": "Sick Gem",
+    "price": 50,
+    "description": "It's the sick gem baby!",
+    "canPurchase": true,
+    "soldOut": false,
+    "images": {
+        "full": "gem-03.gif",
+        "thumb": "gem-03.gif"
+    }
+}, {
+    "name": "Fat Gem",
+    "price": 50000,
+    "description": "It's the sick gem baby!",
+    "canPurchase": false,
+    "soldOut": false,
+    "images": {
+        "full": "gem-04.gif",
+        "thumb": "gem-04.gif"
+    }
+}, {
+    "name": "Cheese Gem",
+    "price": 3,
+    "description": "It's the sick gem baby!",
+    "canPurchase": true,
+    "soldOut": false,
+    "images": {
+        "full": "gem-05.gif",
+        "thumb": "gem-05.gif"
+    }
+}, {
+    "name": "Batman Gem",
+    "price": 5000,
+    "description": "It's the sick gem baby!",
+    "canPurchase": true,
+    "soldOut": true,
+    "images": {
+        "full": "gem-06.gif",
+        "thumb": "gem-06.gif"
+    }
+}, {
+    "name": "Ryan Gem",
+    "price": 0.01,
+    "description": "It's the Ryan gem baby!",
+    "canPurchase": true,
+    "soldOut": false,
+    "images": {
+        "full": "gem-07.gif",
+        "thumb": "gem-07.gif"
+    }
+}, {
+    "name": "Sick Gem",
+    "price": 50,
+    "description": "It's the sick gem baby!",
+    "canPurchase": true,
+    "soldOut": false,
+    "images": {
+        "full": "gem-08.gif",
+        "thumb": "gem-08.gif"
+    }
+}, {
+    "name": "PeterYoony Gem",
+    "price": 1000,
+    "description": "A rare Peter Yoon appeared!",
+    "canPurchase": true,
+    "soldOut": true,
+    "images": {
+        "full": "gem-09.gif",
+        "thumb": "gem-09.gif"
+    }
+}]
